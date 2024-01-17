@@ -7,7 +7,7 @@ Admin Panel Finder is a simple tool for finding admin panels of websites. It inc
 ### Automatic Installation (Windows)
 
 1. Run the following batch files in order:
-    - `install_python.bat`
+    - `install_python.bat` 
     - `install_libraries.bat`
     - `start.bat`
 
