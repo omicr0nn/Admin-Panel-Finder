@@ -37,6 +37,9 @@ Admin Panel Finder is a simple tool for finding admin panels of websites. It inc
 
 3. The tool will start searching for admin panels of websites.
 
+[!Windows](images/adminpanel1.png)
+[!Windows](images/adminpanel2.png)
+
 ## Disclaimer
 
 This tool is for educational purposes only. Do not use it for any illegal activities.
