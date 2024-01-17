@@ -32,13 +32,6 @@ Admin Panel Finder is a simple tool for finding admin panels of websites. It inc
 Also click to use in replit
 <p align="left"><a href="https://replit.com/@omicr0n/Admin-Panel-Finder"><img src="https://skillicons.dev/icons?i=replit"></a></p>
 
-## Usage
-
-1. After installation, you can use the tool by running `start.bat` (for Windows) or `python admin-panel-finder.py` in the terminal.
-
-2. Follow the on-screen instructions to input the necessary information.
-
-3. The tool will start searching for admin panels of websites.
 
 ### Example usage
 ![Windows](https://github.com/omicr0nn/Admin-Panel-Finder/blob/main/images/adminpanel1.png)
