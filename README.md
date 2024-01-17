@@ -39,6 +39,7 @@ Admin Panel Finder is a simple tool for finding admin panels of websites. It inc
 
 Example usage:
 ![Windows](https://github.com/omicr0nn/Admin-Panel-Finder/blob/main/images/adminpanel1.png)
+
 Example result
 ![Windows](https://github.com/omicr0nn/Admin-Panel-Finder/blob/main/images/adminpanel2.png)
 
