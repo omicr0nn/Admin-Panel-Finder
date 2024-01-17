@@ -12,7 +12,7 @@ Admin Panel Finder is a simple tool for finding admin panels of websites. It inc
     - `start.bat`
 
 ### Manual Installation (Windows/Linux)
-
+ 
 1. Clone the repository:
     ```bash
     git clone https://github.com/omicr0nn/Admin-Panel-Finder
