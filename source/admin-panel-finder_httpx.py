@@ -134,7 +134,6 @@ class main():
 
         headers = {'user-agent': 'Mozilla/4.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/11.0.1245.0 Safari/537.36'}
         try:
-
             response = httpx.get(target_url, headers=headers)
             response.raise_for_status()
 
