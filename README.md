@@ -21,7 +21,7 @@ Admin Panel Finder is a simple tool for finding admin panels of websites. It inc
 
 2. Install required libraries (Windows/Linux):
     ```bash
-    pip install requests
+    pip install urllib3 httpx requests
     ```
 
 3. Run the tool:
