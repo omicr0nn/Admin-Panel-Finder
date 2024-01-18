@@ -26,7 +26,7 @@ Admin Panel Finder is a simple tool for finding admin panels of websites. It inc
 
 3. Run the tool:
     ```bash
-    python admin-panel-finder.py
+    python main.py
     ```
 
 Also click to use in replit
