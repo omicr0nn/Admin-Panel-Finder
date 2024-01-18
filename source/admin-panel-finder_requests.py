@@ -132,9 +132,7 @@ class main():
     for keywords in list:
         target_url = url + keywords
 
-        headers = {'user-agent': 'Mozilla/4.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/11.0.1245.0 Safari/537.36'}
-
-        
+        headers = {'user-agent': 'Mozilla/4.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/11.0.1245.0 Safari/537.36'}  
         response = requests.get(target_url, headers=headers)
 
         if response.status_code == 200:
