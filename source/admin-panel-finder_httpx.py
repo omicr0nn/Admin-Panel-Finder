@@ -126,7 +126,7 @@ class main():
     url = input("\n\033[94mEnter the target url: ")
     input("\n\033[91mAttack strategy is ready. Enter to contiune or ctrl+c to exit")
 
-    slowprint('''\n \033[91mDo you feel the presence of blood flowing in you veins???''')
+    slowprint('''\n \033[91mDo you feel the presence of blood flowing in your veins???''')
     time.sleep(2)
 
     for keywords in list:
