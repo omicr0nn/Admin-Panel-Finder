@@ -1,3 +1,3 @@
 @echo off
-python admin-panel-finder.py
+python main.py
 pause
