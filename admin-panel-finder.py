@@ -103,6 +103,7 @@ list = (
 
 
 class main():
+    clearscreen()
     rainbowtext("Coding by omicron")
     bannerprint('''\033[92m
    _____       .___      .__               
