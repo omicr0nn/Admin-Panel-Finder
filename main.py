@@ -43,19 +43,22 @@ class main():
     rainbowtext("Coding by omicron")
     print("""
    \u001b[35m|-*-*-*-Admin Panel Finder-*-*-*-|\n
-        \u001b[94m1- Fast (with urllib3)
-        2- Middle (with httpx)
-        3- Slow (with requests) 
+        \u001b[94m1- So Fast (with aiohttp)
+        2- Fast (with urllib3)
+        3- Middle (with httpx)
+        4- Slow (with requests) 
 """)
     choice = int(input("Enter the any number: "))
 
     source_folder = "source"
 
     if choice == 1:
-        script_path = os.path.join(source_folder, "admin-panel-finder_urllib3.py")
+        script_path = os.path.join(source_folder, "admin-panel-finder_aiohttp.py")
     elif choice == 2:
-        script_path = os.path.join(source_folder, "admin-panel-finder_httpx.py")
+        script_path = os.path.join(source_folder, "admin-panel-finder_urllib3.py")
     elif choice == 3:
+        script_path = os.path.join(source_folder, "admin-panel-finder_httpx.py")
+    elif choice == 4:
         script_path = os.path.join(source_folder, "admin-panel-finder_requests.py")
     else:
         print("\n\033[90m Invalid choice. See You Again ^-^ ")
